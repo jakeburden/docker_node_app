@@ -1,0 +1,11 @@
+{
+  "name": "docker_node_app",
+  "version": "1.0.0",
+  "description": "a dockerized node.js app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Jacob Burden",
+  "license": "MIT"
+}

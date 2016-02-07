@@ -1,1 +1,3 @@
-# docker_node_app
+# example app with Docker
+
+
